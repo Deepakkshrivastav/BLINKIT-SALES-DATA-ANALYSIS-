@@ -15,4 +15,4 @@
 
 4. Data source:
 By youtube channel- data tutorials.
-Screenshort-                                                                                                                                            
+Screenshort-   https://github.com/Deepakkshrivastav/BLINKIT-SALES-DATA-ANALYSIS-/blob/main/blinkit%20sales%20dashboard.png                                                                                                                                         
